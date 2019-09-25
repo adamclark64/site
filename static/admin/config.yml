@@ -1,0 +1,28 @@
+backend:
+  name: gitlab
+  repo: adamclark64/portfolio
+
+media_folder: static/assets
+public_folder: assets
+
+collections:
+  - name: projects
+    label: Projects
+    folder: projects
+    create: true
+    fields:
+      - { name: title, label: Title }
+      - { name: title_detail, label: title_detail }
+      - { name: path, label: Path(slug) }
+      - { name: tech, label: tech }
+      - { name: date, label: Date, widget: date }
+      - { name: body, label: Body, widget: markdown }
+  - name: pages
+    label: Pages
+    folder: pages
+    create: true
+    fields:
+      - { name: path, label: Path }
+      - { name: date, label: Date, widget: date }
+      - { name: title, label: Title }
+      - { name: body, label: Body, widget: markdown }

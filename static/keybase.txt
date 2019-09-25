@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/aclark64
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://adamclark.sh
+  * I am aclark64 (https://keybase.io/aclark64) on keybase.
+  * I have a public key ASBI4mTK3wDJpBSAgkL-RND10tNzn9Md-qTzNYXmaiezhwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010124770f215c1472a692fe095f3fa896a0d182abb2dd3fd6e223f40c19763458c80a",
+      "host": "keybase.io",
+      "kid": "012048e264cadf00c9a414808242fe44d0f5d2d3739fd31dfaa4f33585e66a27b3870a",
+      "uid": "9169b3636ff1279ac78dadcee35f9119",
+      "username": "aclark64"
+    },
+    "merkle_root": {
+      "ctime": 1563893373,
+      "hash": "ee3de37f9610a364fc0c5bd71ca3ee22eaf905c92da5c5b7f7a08483344c3edf658fa678ca04c02cf875ae4cfa13759f5385f4f0b77b0737fe989aee9d941dcb",
+      "hash_meta": "2dd10e9856dc0c1bcbe8e5a898ff23eb22470f251fd4147f2b8822d221a46742",
+      "seqno": 5833196
+    },
+    "service": {
+      "entropy": "BfFzF4feODeR0WJIL3wAO4mB",
+      "hostname": "adamclark.sh",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1563893402,
+  "expire_in": 504576000,
+  "prev": "0df4b59e7348454ff3112377ca0c030a6391e3ba8b1bfad11a1d046666146702",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSOJkyt8AyaQUgIJC/kTQ9dLTc5/THfqk8zWF5mons4cKp3BheWxvYWTESpcCD8QgDfS1nnNIRU/zESN3ygwDCmOR47qLG/rRGh0EZmYUZwLEINB2Pv0csGghzdSbty8Db0eMKelCb7Vy7/Ds1OtntWfiAgHCo3NpZ8RAeKgyQmT8MCPd+eX+mytiz/jVSW9+pdrubMAL58jVFHnXtKHhrEKFq5BNoYY76KKGyPZ5U4OaKWVB7GkQzq5JDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPSUFT3fWsgdVrSeNfj9vI8CtsE988dK8O4nIPFy0Wtfo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aclark64
+
+==================================================================

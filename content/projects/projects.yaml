@@ -1,0 +1,103 @@
+# CoinCap
+- title: "CoinCap"
+  title_detail: "CoinCap Mobile"
+  slug: "coincap"
+  category: "Nodejs, Graphql, Apollo, React Native iOS / Android"
+  color: "#191919"
+  images: "coincap"
+  cover: "./coincap/coincap.png"
+  desc: "CoinCap, a real-time cryptocurrency market cap rankings application, 
+         requested services to redesign their branding and to move their applications from two independant Swift and Java repositories into a one signle React Native codebase for both Android and iOS.
+         Using our teams designs, I led the development of creating a single source of truth for both Android and iOS."
+# Workplay Ventures
+# - title: "Workplay Ventures"
+#   title_detail: "Dapp Prototype"
+#   slug: "workplay"
+#   category: "Solidity, Nodejs, React"
+#   color: "#191919"
+#   images: "workplay"
+#   cover: "./workplay/workplay.png"
+#   desc: "While working with Zynga games family house Workplay Ventures,  I led prototyping a card game Dapp. The card game was intended to be a simple trading card game on the Ethereum blockchain.  
+#         This was accomplished by writing a smart contract that released ERC20 tokens, taking a name, symbol, number of decimals, and number of tokens, to be minted as arguments.  
+#         Once cards were minted they would be available for purchase in a market where a user could buy a card with ethereum and then see the card in their wallet based on their public wallet address. 
+#         Although Zynga never brought this prototype to market, the success of some similar card games like cryptokitties.co , mlbcryptobaseball.com and godsunchained.com 
+#         all had great success with extremely similar concepts."
+# FOX Token
+- title: "ShapeShift"
+  title_detail: "FOX Token Sale"
+  slug: "fox-token"
+  category: "Postgresql, TypeScript, Nodejs, React"
+  color: "#191919"
+  images: "fox"
+  cover: "./fox/fox.jpg"
+  desc: "The ShapeShift Membership Program will be represented by tokens, which will have a number of features and functions when they become available, with a standard Ethereum-based token (symbol: FOX).
+    Customers can achieve Level 1 Membership without any FOX tokens, but to become a Level 2-5 Member, one must possess FOX tokens. The tokens will also be awarded to Members, both as bonuses on trade volumes 
+    and through various promotions and giveaways.
+    FOX tokens will represent only the means to acquire a ShapeShift Membership and the related membership benefits."
+# Corepower Yoga
+- title: "CorePower Yoga"
+  title_detail: "Mobile Application"
+  slug: "corepower"
+  category: "Postgresql, Nodejs, React Native iOS / Android"
+  color: "#191919"
+  images: "cpy"
+  cover: "./cpy.png"
+  desc: "Corepwer Yoga approached us wanting to have their mobile app redone, with an emphasis on usability and custom design.  After many iterations and user testing
+         we developed a design that offered the ability to view and book any class with any instructor, anywhere across the nation.  
+         Along with easy to use class booking, we implemented a goals screen that users can customize and track through the app."
+# Pure Barre
+- title: "Pure Barre"
+  title_detail: "SEE YOUR STRONG CHALLENGE"
+  slug: "pure-barre"
+  category: "Postgresql, Nodejs, React Native iOS / Android"
+  color: "#191919"
+  images: "pb"
+  cover: "./pb/pb_mobile_apps.png"
+  desc: "We established a mobile-based solution to utilize a promotional game to increase attendance rates and generate some excitement among members.
+    The app uses QR codes to assign point rewards based on select activities: class attendance, bringing a friend, purchasing merchandise or sharing a status on social media. We were intentional in 
+    our use of the QR codes as a solution that offered studio owners the most control over how participation was validated.
+    The Pure Barre app was downloaded over ~30K times, doubling forecasted numbers and had a user base of ~65K. We were also successful at extending the average time spent visiting the 
+    app to 1.5 minutes, which far exceeded website visits."
+#   You
+- title: "GRIT DIGITAL HEALTH"
+  title_detail: "YOU / CSU WEBSITE"
+  slug: "grit-digital"
+  category: "Modgodb, Nodejs, React"
+  color: "#191919"
+  images: "you"
+  cover: "./you/projects-you-001.png"
+  desc: "The first meal of the day.YOU, a product of  Grit Digital Health, is an innovative and dynamic college student success portal. With content that’s customized to include 
+  student resources unique to each campus partner, YOU connects students to on-campus and online resources that help them achieve and maintain strong mental, physical, academic and social health 
+  in order to lead more productive, well-balanced college lives. Driving the YOU Portal’s product launch, Cactus designed and developed the YOU identity, website and collateral, and is currently 
+  working on development of an on-campus marketing campaign."
+# PWN
+- title: "PROTECT WHAT'S NEXT"
+  title_detail: "PWN CHALLENGE"
+  slug: "protect-whats-next"
+  category: "Modgodb, Nodejs, React"
+  color: "#191919"
+  images: "pwn"
+  cover: "./protect-cover.png"
+  desc: "To help youth prioritize personal goals over underage marijuana use, we partnered with 62 Colorado middle schools to initiate the Protect What’s Next Challenge, which generated more 
+  than 15,000 social posts from students who accepted the challenge to step out of their comfort zones and start protecting what’s next for them. We also collaborated with TEDx to develop 
+  Protect What’s Next Adventures, a series of once-in-a-lifetime experiences that encouraged teens to explore their passions while receiving mentorship from experts in their field of interest."
+#   G2k
+- title: "GOOD TO KNOW COLORADO"
+  title_detail: "good-to-know"
+  slug: "good-to-know"
+  category: "Modgodb, Nodejs, React"
+  color: "#191919"
+  images: "gtk"
+  cover: "./goodtoknow-cover.png"
+  desc: "When it comes to the safe, legal and responsible use of retail marijuana, there’s a lot that’s good to know. So following the completion of the initial Good To Know campaign launch, 
+  we redeveloped GoodToKnowColorado.com to serve as a holistic hub of information."
+#   Flowhub
+- title: "Flowhub"
+  title_detail: "Flowhub Point Of Sale"
+  slug: "flowhub"
+  category: "Modgodb, Nodejs, Angular, Meteor"
+  color: "#191919"
+  images: "fh"
+  cover: "./flowhub-cover.jpeg"
+  desc: "I was apart of the initial team that built the POS system in the MEAN stack, maintaining the frontend of the application.   
+         Later we switched the codebase over to Meteor where I was responsible for the completion of a feature's API and UI"
